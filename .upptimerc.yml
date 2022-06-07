@@ -7,8 +7,8 @@ sites:
     url: https://www.ncu.edu.tw
   - name: NCU-pwtsai
     url: https://pwtsai.github.io/
-  - name: NCU-Teacher
-    url: https://teachncu.ncu.edu.tw/
+  - name: NCU-Portal
+    url: https://portal.ncu.edu.tw/
   - name: NCU-IDEANCU
     url: https://idea.ncu.edu.tw/
   - name: NCHC-CDX
