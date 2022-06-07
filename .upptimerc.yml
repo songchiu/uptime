@@ -3,14 +3,18 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: NCU
+    url: https://www.ncu.edu.tw
+  - name: NCU-MGTCC
+    url: https://songchiu-web.mgt.ncu.edu.tw
+  - name: NCU-pwtsai
+    url: https://pwtsai.github.io/
+  - name: NCU-Teacher
+    url: https://teachncu.ncu.edu.tw/
+  - name: NCU-IDEANCU
+    url: https://idea.ncu.edu.tw/
+  - name: NCHC-CDX
+    url: https://cdx.nchc.org.tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
