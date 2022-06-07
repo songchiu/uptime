@@ -12,8 +12,8 @@ sites:
   - name: NCU-IDEANCU
     url: https://idea.ncu.edu.tw/
   - name: NCHC-CDX
-    url: https://cdx.nchc.org.tw/
- - name: NCU-MGTCC
+    url: https://cdx.nchc.org.tw
+  - name: NCU-MGTCC
     url: https://songchiu.mgt.ncu.edu.tw
     
 status-website:
