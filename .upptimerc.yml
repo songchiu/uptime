@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: NCU
     url: https://www.ncu.edu.tw
-  - name: NCU-MGTCC
-    url: https://songchiu-web.mgt.ncu.edu.tw
   - name: NCU-pwtsai
     url: https://pwtsai.github.io/
   - name: NCU-Teacher
@@ -15,7 +13,9 @@ sites:
     url: https://idea.ncu.edu.tw/
   - name: NCHC-CDX
     url: https://cdx.nchc.org.tw/
-
+ - name: NCU-MGTCC
+    url: https://songchiu.mgt.ncu.edu.tw
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
